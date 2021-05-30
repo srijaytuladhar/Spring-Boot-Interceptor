@@ -1,2 +1,2 @@
-# Spring-Boot-REST-API
-A quick example of REST API using GET method in Spring Boot 
+# Spring-Boot-Interceptor
+A quick example of Interceptor in Spring Boot 
